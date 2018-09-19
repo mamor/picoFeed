@@ -1,5 +1,5 @@
 {
-    "name": "miniflux/picofeed",
+    "name": "mamor/picofeed",
     "description": "RSS/Atom parsing library (not maintained)",
     "homepage": "https://github.com/miniflux/picoFeed",
     "type": "library",
